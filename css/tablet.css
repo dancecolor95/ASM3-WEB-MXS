@@ -1,0 +1,70 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  /*Phan Nav*/
+  .nav-bonus {
+    display: none;
+  }
+  #nav-bar a:link,
+  a:visited {
+    padding: 15px;
+  }
+
+  .icon-doc-text-inv,
+  .icon-star-1 {
+    padding: 15px;
+  }
+
+  #nav-bar {
+    margin-top: 1rem;
+  }
+  /*muc tieu va tt co ban*/
+  #personal-info {
+    font-size: 16px;
+    padding-right: 40px;
+  }
+
+  #target {
+    font-size: 16px;
+  }
+  /*tt nghe nghiep*/
+  .ic3-2 {
+    margin-bottom: 40px !important;
+  }
+  .hobbies {
+    padding-right: 50px !important;
+  }
+  /*chung chi */
+  .cer-content {
+    flex-direction: column;
+    gap: 30px;
+  }
+  /*du an*/
+  .project-title {
+    font-size: 14px;
+  }
+  .project-border {
+    font-size: 14px;
+  }
+  .project-border i {
+    margin-left: 45px;
+  }
+  .project-border span {
+    margin-left: 34px !important;
+    margin-top: 5px;
+  }
+  td {
+    font-size: 14px;
+  }
+  tr td:first-child {
+    width: 32%;
+  }
+  /*footer*/
+  #footer i {
+    font-size: 14px;
+  }
+  #footer i:first-child {
+    margin-left: 150px;
+  }
+  #footer span {
+    font-size: 14px;
+  }
+}

@@ -1,0 +1,49 @@
+@media (max-width: 768px) {
+  /*Phan Nav*/
+  .nav-bonus {
+    display: none;
+  }
+
+  #nav-bar a:link,
+  a:visited {
+    border: none;
+    display: block;
+    padding: 10px;
+    text-align: left;
+  }
+
+  .icon-doc-text-inv,
+  .icon-star-1 {
+    border: none;
+    margin-left: -120px;
+  }
+
+  .icon-user,
+  .icon-mail-alt {
+    margin-left: -134px;
+  }
+
+  /*muc tieu va tt co ban*/
+  #personal-info {
+    padding-right: 25px;
+  }
+  /*tt nghe nghiep*/
+  section > .container {
+    width: 490px;
+  }
+  /*chung chi */
+  .cc1 {
+    border-left: 0;
+    border-top: 2px solid #d6c08d;
+    padding-top: 20px;
+  }
+  /*footer*/
+  #footer i {
+    margin: 5px;
+    font-size: 13px;
+  }
+  #footer span {
+    margin-right: 5px;
+    font-size: 13px;
+  }
+}
